@@ -7,3 +7,4 @@
 		Thread.sleep(2000);
 		boolean ele = driver.findElement(By.linkText("Download jdk-8u202-linux-arm32-vfp-hflt.tar.gz")).isEnabled();
 		System.out.println(ele);
+		}
